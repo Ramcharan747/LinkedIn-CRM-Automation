@@ -73,6 +73,6 @@ python main.py
 python main_messaging.py
 ```
 ## Future Improvements 🔮
-[ ] Implement Headless Mode for server-side deployment.
-[ ] Add OpenAI API integration to generate personalized connection notes based on profile bios.
-[ ] Create a Flask UI to monitor bot status from a web dashboard.
+* [ ] Implement Headless Mode for server-side deployment.
+* [ ] Add OpenAI API integration to generate personalized connection notes based on profile bios.
+* [ ] Create a Flask UI to monitor bot status from a web dashboard.
