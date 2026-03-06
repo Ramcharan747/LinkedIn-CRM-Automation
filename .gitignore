@@ -1,0 +1,19 @@
+# Credentials & Secrets
+credentials.json
+credentials*.json
+linkedin_cookies.pkl
+
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# macOS
+.DS_Store
+
+# Debug
+debug_failure.png
+
+# Queue data
+update_queue.json
